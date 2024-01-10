@@ -1,10 +1,10 @@
 # scientific-calculator
-Welcome to the Scientific Calculator repository! 
-This Python project is a versatile and user-friendly calculator designed for scientific computations. 
-Features: 
-Basic Arithmetic Operations  
-Scientific Functions  
-Memory Functions 
-User-Friendly Interface
+Welcome to the Scientific Calculator repository!
+<br>This Python project is a versatile and user-friendly calculator designed for scientific computations. 
+<br>Features: 
+<br>Basic Arithmetic Operations  
+<br>Scientific Functions  
+<br>Memory Functions 
+<br>User-Friendly Interface
 
-Author - Amit Maurya
+<br>Author - Amit Maurya
